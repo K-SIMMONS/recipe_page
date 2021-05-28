@@ -57,7 +57,7 @@ nav li{
   }
 
   .guac_img{
-    background-image: url(../images/guacamole_bowl.jpg);
+    background-image: url(./images/guacamole_bowl.jpg);
     background-size: cover;
     background-repeat: no-repeat;  
     width:100%;
