@@ -61,6 +61,7 @@ a :visited{
 
 .review p{
     color: white;
+    margin-top: 145px;
 }
 
 .review_2{
@@ -81,6 +82,7 @@ a :visited{
 
 .review_2 p{
     color: white;
+    margin-top: 145px;
 }
 
 .review_3{
@@ -101,4 +103,6 @@ a :visited{
 
 .review_3 p{
     color: white;
+    background-color: transparent   ;
+    margin-top: 145px;
 }
